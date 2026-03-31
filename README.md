@@ -35,19 +35,7 @@ The dataset contains:
 - Who are the top customers by lifetime value?
 - Which payment methods perform best?
 
-## Project Structure
-- `schema.sql`: table definitions
-- `views.sql`: reusable business logic
-- `analysis.sql`: final business analysis queries
-
-## Sample Results
-Monthly revenue, gross profit and gross margin
-<img width="695" height="155" alt="image" src="https://github.com/user-attachments/assets/10446197-ff52-40f4-a808-46cc8b4779dd" />
-
-Channel performance or category performance
-<img width="698" height="145" alt="image" src="https://github.com/user-attachments/assets/d0c26401-16bf-431c-ad28-a10a1f5e680f" />
-
-## 📊 Key Insights
+## Key Insights
 
 - Revenue decreased from April to May, but gross margin increased from 36% to 42%, indicating improved profitability despite lower sales volume.
 
@@ -62,3 +50,15 @@ Channel performance or category performance
 - Cohort analysis indicates that customer activity declines over time, which suggests opportunities to improve retention through marketing or engagement strategies.
 
 - Payment method analysis shows differences in revenue contribution and order volume, which can guide optimization of payment options.
+
+## Project Structure
+- `sql/schema.sql`: table definitions
+- `sql/views.sql`: reusable business logic
+- `sql/analysis.sql`: final business analysis queries
+
+## Sample Results
+Monthly revenue, gross profit and gross margin
+<img width="695" height="155" alt="image" src="https://github.com/user-attachments/assets/10446197-ff52-40f4-a808-46cc8b4779dd" />
+
+Channel performance or category performance
+<img width="698" height="145" alt="image" src="https://github.com/user-attachments/assets/d0c26401-16bf-431c-ad28-a10a1f5e680f" />
