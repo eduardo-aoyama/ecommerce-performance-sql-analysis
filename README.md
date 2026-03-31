@@ -43,6 +43,7 @@ The dataset contains:
 ## Sample Results
 Monthly revenue, gross profit and gross margin
 <img width="695" height="155" alt="image" src="https://github.com/user-attachments/assets/10446197-ff52-40f4-a808-46cc8b4779dd" />
+
 Channel performance or category performance
 <img width="698" height="145" alt="image" src="https://github.com/user-attachments/assets/d0c26401-16bf-431c-ad28-a10a1f5e680f" />
 
