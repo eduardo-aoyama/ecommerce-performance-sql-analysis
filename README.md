@@ -19,6 +19,13 @@ The dataset contains:
 - LTV analysis
 - Channel and category performance
 
+## How to run
+
+1. Run schema.sql
+2. Load CSV files
+3. Run views.sql
+4. Run analysis.sql
+
 ## Business Questions Answered
 - What is the monthly revenue and gross margin?
 - Which sales channel has the highest AOV?
