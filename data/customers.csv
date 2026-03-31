@@ -1,0 +1,13 @@
+customer_id,customer_name,signup_date,country,acquisition_channel
+1,Ana Silva,2024-01-10,Brazil,Organic
+2,Bruno Costa,2024-01-12,Brazil,Paid Search
+3,Carla Mendes,2024-01-20,Brazil,Instagram
+4,Daniel Sato,2024-02-01,Brazil,Organic
+5,Erika Tanaka,2024-02-10,Brazil,Referral
+6,Felipe Lima,2024-02-15,Brazil,Paid Search
+7,Gabriela Rocha,2024-03-01,Brazil,Instagram
+8,Henrique Aoki,2024-03-05,Brazil,Referral
+9,Isabela Moura,2024-03-12,Brazil,Organic
+10,João Nunes,2024-03-18,Brazil,Paid Searc
+11,Karina Alves,2024-03-22,Brazil,Instagram
+12,Lucas Teixeira,2024-03-28,Brazil,Referral

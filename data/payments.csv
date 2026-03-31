@@ -1,0 +1,21 @@
+payment_id,order_id,payment_method,payment_status,installments
+1,1001,Credit Card,Paid,1
+2,1002,Credit Card,Paid,3
+3,1003,Pix,Paid,1
+4,1004,Credit Card,Voided,1
+5,1005,Credit Card,Paid,6
+6,1006,Pix,Paid,1
+7,1007,Boleto,Paid,1
+8,1008,Credit Card,Paid,2
+9,1009,Pix,Paid,1
+10,1010,Credit Card,Paid,6
+11,1011,Credit Card,Paid,8
+12,1012,Pix,Paid,1
+13,1013,Credit Card,Paid,2
+14,1014,Credit Card,Refunded,10
+15,1015,Boleto,Paid,1
+16,1016,Credit Card,Paid,4
+17,1017,Pix,Paid,1
+18,1018,Boleto,Voided,1
+19,1019,Pix,Paid,1
+20,1020,Credit Card,Paid,2

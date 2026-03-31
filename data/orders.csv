@@ -1,0 +1,21 @@
+order_id,customer_id,order_date,channel,order_status,shipping_fee
+1001,1,2024-04-01,Website,Completed,15
+1002,2,2024-04-01,Marketplace,Completed,20
+1003,1,2024-04-05,Website,Completed,15
+1004,3,2024-04-07,Website,Cancelled,15
+1005,4,2024-04-10,Mobile App,Completed,18
+1006,5,2024-04-15,Website,Completed,15
+1007,6,2024-04-18,Marketplace,Completed,20
+1008,7,2024-04-20,Mobile App,Completed,18
+1009,8,2024-04-22,Website,Completed,15
+1010,2,2024-04-25,Website,Completed,15
+1011,9,2024-05-02,Website,Completed,15
+1012,10,2024-05-04,Marketplace,Completed,20
+1013,11,2024-05-06,Mobile App,Completed,18
+1014,12,2024-05-10,Website,Refunded,15
+1015,3,2024-05-13,Website,Completed,15
+1016,1,2024-05-18,Mobile App,Completed,18
+1017,5,2024-05-20,Website,Completed,15
+1018,6,2024-05-24,Marketplace,Cancelled,20
+1019,8,2024-05-27,Website,Completed,15
+1020,10,2024-05-29,Mobile App,Completed,18
